@@ -1,0 +1,5 @@
+<H1>Rentals for <EM>Dieter Neumann</EM></H1><P>
+Ten(HD): 7,50(Discount: 10%)<BR>
+Eleven(4K): 8,50(Discount: 20%)<BR>
+<P>You owe <EM>16,00</EM><P>
+On this rental you earned <EM>7</EM> frequent renter points<P>

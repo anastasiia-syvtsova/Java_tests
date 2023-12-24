@@ -1,0 +1,6 @@
+Rental Record for Dieter Neumann
+	Movie One (4K)	5,85(Discount: 10%)
+	Movie Two (HD)	2,40(Discount: 20%)
+	Movie Three (HD)	1,40(Discount: 30%)
+Amount owed is 9,65
+You earned 3 frequent renter points

@@ -1,0 +1,6 @@
+<H1>Rentals for <EM>Dieter Neumann</EM></H1><P>
+Movie One(4K): 5,85(Discount: 10%)<BR>
+Movie Two(HD): 2,40(Discount: 20%)<BR>
+Movie Three(HD): 1,40(Discount: 30%)<BR>
+<P>You owe <EM>9,65</EM><P>
+On this rental you earned <EM>3</EM> frequent renter points<P>

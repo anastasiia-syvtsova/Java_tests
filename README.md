@@ -15,7 +15,7 @@ Throughout my university coursework, I embarked on a minor project within the Ja
 
 1. Clone the repo from GitHub
   ```sh
-   git clone https://github.com/anastasiia-syvtsova/Management_of_lit_db.git
+   https://github.com/anastasiia-syvtsova/Java_tests.git
    ```
 2. Open cloned repo in integrated development environment (ex. IntelliJ IDEA, Eclipse, Visual Studio)
 3. Start the program via main method. 
